@@ -212,7 +212,7 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
-![image](https://github.com/kanishka2305/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113497357/819fb521-94e1-4b88-ab0e-c2b3e2afc048)
+ ![image](https://github.com/kanishka2305/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113497357/819fb521-94e1-4b88-ab0e-c2b3e2afc048)
 
 
  
