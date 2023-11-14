@@ -200,7 +200,7 @@ int main(void)
   Lcd_string(&lcd, "DEPT : AIDS");
 
   Lcd_cursor(&lcd, 1,5);
-  Lcd_string(&lcd, "KAADITHYAN");
+  Lcd_string(&lcd, "KANISHKA");
   
   while (1)
   {
@@ -212,11 +212,12 @@ int main(void)
 
 
 ## Output screen shots of proteus  :
- ![output screen shot](https://github.com/AdhithiyanK/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121029258/05921e63-02b9-4e19-a7af-e7373e0eaa16)
+![image](https://github.com/kanishka2305/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113497357/819fb521-94e1-4b88-ab0e-c2b3e2afc048)
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![circut](https://github.com/AdhithiyanK/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/121029258/0ff57689-77e7-4044-8b49-0daf8d0b653b)
+![image](https://github.com/kanishka2305/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/113497357/db8e87e3-879f-4642-9a5a-53cbe9cd4b17)
 
  
 ## Result :
